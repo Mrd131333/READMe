@@ -31,3 +31,5 @@ google-services.json
 
 # Android Profiling
 *.hprof
+npx create-react-app my-terra-app
+cd my-terra-app
