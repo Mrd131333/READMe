@@ -33,3 +33,5 @@ google-services.json
 *.hprof
 npx create-react-app my-terra-app
 cd my-terra-app
+npm install @terra-money/wallet-provider
+
